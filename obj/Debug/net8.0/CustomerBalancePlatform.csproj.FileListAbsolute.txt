@@ -153,3 +153,4 @@
 /Users/johnjilima/Desktop/CustomerBalancePlatform/obj/Debug/net8.0/CustomerBalancePlatform.pdb
 /Users/johnjilima/Desktop/CustomerBalancePlatform/obj/Debug/net8.0/CustomerBalancePlatform.genruntimeconfig.cache
 /Users/johnjilima/Desktop/CustomerBalancePlatform/obj/Debug/net8.0/ref/CustomerBalancePlatform.dll
+/Users/johnjilima/Desktop/CustomerBalancePlatform/obj/Debug/net8.0/CustomerBalancePlatform.sourcelink.json
